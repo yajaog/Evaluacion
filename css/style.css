@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+.caja1{
+    border-style:solid;
+    border-color:rgb(236, 234, 234);
+    height:30vh;
+    background-color:pink;
+}
+.caja2{
+    border-style:solid;
+    border-color: white;
+    height:30vh;
+    background-color: rgb(28, 17, 226);
+
+}
+.caja3{
+    border-style:solid;
+    border-color:white;
+    height:30vh;
+    background-color: rgb(195, 226, 18);
+}
+.caja4{
+    border-style:solid;
+    border-color:white;
+    height:30vh;
+    background-color: rgb(14, 155, 190);
+}
